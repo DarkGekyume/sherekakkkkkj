@@ -1,0 +1,33 @@
+{
+  "name": "tmuxdcbot",
+  "version": "1.0.0",
+  "description": "Musicbot",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "discord.js": "^12.2.0",
+    "request": "^2.88.0",
+    "ytdl-core": "^2.1.1",
+    "youtube-search": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdciabdul/tmuxdcbot.git"
+  },
+  "keywords": [
+    "Termux",
+    "discord",
+    "music",
+    "bot"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdciabdul/tmuxdcbot/issues"
+  },
+  "homepage": "https://github.com/fdciabdul/tmuxdcbot#readme"
+}
